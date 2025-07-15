@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @crltrbdev
 - 👀 I’m interested in AI, web development, and creating immersive video game experiences.
-- 🌱 I’m currently learning how to start and grow a game development studio.
+- 🌱 I’m currently working on developing a video game and aspiring to sell it on multiple platforms.
 - 💞️ I’m looking to collaborate on sharing ideas, lessons, and creative assets for games and software projects.
 - 📫 How to reach me: carlo.toribio.dev@gmail.com
 - ⚡ Fun fact: I can code in 11 programming languages, speak 5 human languages, and I play multiple musical instruments in a band called Sunsets!
